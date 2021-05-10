@@ -1,0 +1,7 @@
+git clone https://github.com/Lornatang/ESRGAN-PyTorch.git 
+git clone https://github.com/Lornatang/KernelGAN 
+git clone https://github.com/Lornatang/SRGAN-PyTorch.git
+git clone https://github.com/JiahuiYu/generative_inpainting.git 
+git clone https://github.com/AshishBora/ambient-gan
+git clone https://github.com/llvictorll/AmbientGan.git
+https://pytorch.org/vision/master/transforms.html
