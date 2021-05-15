@@ -1,2 +1,5 @@
 
-Here is the code used and referenced for the part of the project dealing with using AmbientGAN for Generative Inpainting
+Here is the code used and referenced for the part of the project dealing with using AmbientGAN for Generative Inpainting,
+specifically Jiahui Yu's tensorflow implementation of Generative Inpainting.
+
+The link to the repository for AmbientGAN is: https://github.com/AshishBora/ambient-gan
