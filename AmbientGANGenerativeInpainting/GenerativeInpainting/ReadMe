@@ -1,4 +1,7 @@
 
-To train this model, please make sure your training and validation data is saved into the folder structure needed for running flistCreator.py.
+To train this model, please make sure your training and validation data is saved into the folder structure needed for running flistCreator.py. The data we used
+came from the Places2 dataset.
+
 This model uses Tensorflow 1.X, and as such you will need to be running a Python version that supports this, so Python 3.7 or lower.
+
 Once you have successfully generated the flist files, refer to the READ ME of the Generative Inpainting model created by Jiahui Yu to train the model.
